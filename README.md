@@ -1,0 +1,2 @@
+# Online_Retail_Customer_Segmentation_Capstone_Project
+Online Retail Customer Segmentation
